@@ -1,0 +1,4 @@
+pathlib
+rich
+tensorflow
+pandas
